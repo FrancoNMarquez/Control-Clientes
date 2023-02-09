@@ -1,0 +1,6 @@
+web\ServletControlador.class
+dominio\Cliente.class
+mx\com\gm\ControlClientes\resources\JavaEE8Resource.class
+datos\ClienteDaoJDBC.class
+datos\Conexion.class
+mx\com\gm\ControlClientes\JAXRSConfiguration.class
